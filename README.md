@@ -1,3 +1,6 @@
+# Reference
+[URL](https://qiita.com/kento_gm/items/3c492ba08f0943c1189c) 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
